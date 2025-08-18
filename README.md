@@ -1,2 +1,0 @@
-# syntifai
-project work
